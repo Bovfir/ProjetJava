@@ -10,7 +10,7 @@ public class SingletonConnection {
     private static Connection connection;
 
     private SingletonConnection() throws SQLException{
-        connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/pocket_bakery", "root", "Bamcko123.");
+        connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/pocket_bakery", "root", "root");
     }
 
     public static Connection getInstance() throws ConnectionException {
