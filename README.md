@@ -1,4 +1,4 @@
 Projet Java IG2 :  
 
-Valentin Guillaume 
+Valentin Guillaume   
 Cédric Denoncin  
