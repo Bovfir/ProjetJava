@@ -1,4 +1,4 @@
-Projet Java IG2 :  
+Projet Java IG2A :  
 
 Valentin Guillaume   
 Cédric Denoncin  
